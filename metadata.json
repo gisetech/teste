@@ -1,0 +1,6 @@
+{
+  "name": "CRM Kanban",
+  "description": "CRM com quadro Kanban para gerenciamento de contatos e tarefas integrado ao Supabase em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
